@@ -1,6 +1,13 @@
 ## E-commmerceproject
 Manual testing on E-commerce project
 #The manual testing process for the Amazon website involves thoroughly examining its various features, functionalities, and user interfaces to ensure they perform as expected and deliver a seamless shopping experience for customers. It involves a step-by-step evaluation of different aspects of the website, including navigation, search functionality, product listings, shopping cart, checkout process, and account management.
+Design test scenarios & test Case for a E-commerce website 
+1. Login
+2. search a product
+3. Filter according to the price(low to high)
+4. Add the item
+5. Update the item number
+6. checkout(excluding payment)
 
 * User Interface Testing: Testers assess the visual elements, layout, and design consistency of the website. They ensure that the user interface is intuitive, user- 
   friendly, and visually appealing, with proper alignment, fonts, colors, and images.
